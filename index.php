@@ -1,0 +1,3 @@
+<?php 
+ptint "Hello Maalm";
+?>
